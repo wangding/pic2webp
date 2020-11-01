@@ -1,0 +1,24 @@
+{
+  "name": "pic2webp",
+  "version": "1.0.1",
+  "description": "pic2webp",
+  "bin": {
+    "pic2webp": "./pic2webp.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/pic2webp.git"
+  },
+  "keywords": [
+    "webp"
+  ],
+  "author": "wangdng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/pic2webp/issues"
+  },
+  "homepage": "https://github.com/wangding/pic2webp#readme"
+}
